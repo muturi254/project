@@ -1,0 +1,22 @@
+Css
+    1. Box model
+        - everything is a box
+
+Version Control
+    - track changes
+    - git
+        - linus trovald : linux
+        - distributed vsc
+        - workflow - is a way of working / flow in which you work
+            - working directory
+                - where your is currebtly 
+            - staging area
+                - is where your work is being tracked
+
+        ps: folder/directory -> repository
+
+
+
+Assignment
+1. Form legend - create a form using one coupled with everything we have learned about forms today.
+2. Research on html 5 layout attributes.
