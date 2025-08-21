@@ -12,6 +12,7 @@ Version Control
                 - where your is currently 
             - staging area
                 - is where your work is being tracked
+            - branches
 
         ps: folder/directory -> repository
 
