@@ -9,7 +9,7 @@ Version Control
         - distributed vsc
         - workflow - is a way of working / flow in which you work
             - working directory
-                - where your is currebtly 
+                - where your is currently 
             - staging area
                 - is where your work is being tracked
 
