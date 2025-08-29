@@ -17,7 +17,79 @@ Version Control
         ps: folder/directory -> repository
 
 
+Javascript
+    - Data types
+        - Numbers
+            - whole 
+            - floating 2.5
+        - String
+            - "peter" '10'
+        - Boolean
+             - truth / falsey > true or falsey
+        - null 
+        - undefined
+        - object
+        - array 
+        - date
+
+    Operators
+        - arithmtic
+            - * Multiplication
+            - + addition
+            - / division
+            - - subtraction
+            - % modulus
+
+        comparison operators
+            - greater than  >
+            - less than <
+            - greather or equal >=
+            - less than or eqaul <=
+            - equal to ==
+        
+        Logical operators
+         - and &&
+         - or ||
+         - ! not
+
+
+    Control Flows
+        - Looping Mechanism
+            - traditional for loop
+                - for
+                - while
+        - branching
+            - if / if else if
+            - Switch Case
+    
+    function
+        - parameterized / with arguements
+        - non-parameterized / no arguements
+        - named function
+        - annonymous
+        - arrow function
+            - shortcut way to write
+
+        - methods
+           - independent
+            - object
+        - high order function
+            - function that other functions as values or parameters
+
+        ps: First citizens objects in js
+
+
+
+
 
 Assignment
 1. Form legend - create a form using one coupled with everything we have learned about forms today.
 2. Research on html 5 layout attributes.
+3. research on git diff and be able to demostrate
+4. build a simple website using flexbox
+5. What difference between an expression and a ststement
+6. Stack overflow
+7. Switch Case
+8. First class citizen mean in js
+9. Difference between passing an arguement by value vs by reference
+10. side effects -> pure function
